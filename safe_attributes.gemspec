@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name = "safe_attributes"
   s.version = SafeAttributes::VERSION::STRING
 
-  s.required_rubygems_version = '>= 1.8.10'
+  #s.required_rubygems_version = '>= 1.8.10'
   s.authors = ["Brian Jones"]
   s.date = Time.now.utc.strftime("%Y-%m-%d")
   s.summary = "Useful for legacy database support, adds support for reserved word column names with ActiveRecord"
